@@ -1,1 +1,1 @@
-# sampple Application for deplyment to Openshift 3 Wildfly 
+# Sample Application for deployment to OpenShift 3 WildFly 
