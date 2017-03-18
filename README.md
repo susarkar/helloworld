@@ -1,0 +1,1 @@
+# sampple Application for deplyment to Openshift 3 Wildfly 
