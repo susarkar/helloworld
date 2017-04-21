@@ -23,7 +23,7 @@ public class WebApplication extends SpringBootServletInitializer {
 
 @RestController
 class HelloController {
-
+	// this is sample helloworld rest 
 	@RequestMapping("/")
 	String hello() {
 
